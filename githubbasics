@@ -1,0 +1,18 @@
+Github basics.
+Able to track the changes done in a document. Take snapshots of document at different instants.
+
+mkdir  <name>
+cd <name>
+git init – initialize the directory as git repository
+touch <filename.extension> - to create a file inside folder.
+Git add <filename.ext> - adding to git repository
+git commit -m " "
+git remote add origin url
+git pull origin master
+git push origin master
+git clone url
+
+https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository#ch02-git-basics-chapter
+
+
+Created google sheet and github account. Learning github basic commands for pushing and pulling data to and from repository and cloning. 
