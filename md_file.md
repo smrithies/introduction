@@ -1,6 +1,6 @@
-#How to create an MD file.
+# How to create an MD file.
 
-##What is an Md file?
+## What is an Md file?
 - A file with the **.MD** or .MARKDOWN file extension might be a Markdown Documentation file.  
 - It's a *plain text file* that uses the *Markdown language* to describe how to convert a text document to HTML.  
 - README.md is a common MD file that holds text instructions.  
